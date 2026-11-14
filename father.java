@@ -7,14 +7,15 @@ public class father {
 
 }
 class son extends father{
-
+@Override 
     public void bike()
     {
+
 
     }
 }
 
-class main
+class maininher
 {
     public static void main(String[] args) {
         
